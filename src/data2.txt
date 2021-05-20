@@ -1,0 +1,6 @@
+Falcons 3, Tornados 1
+Gophers 4, Falcons 1
+Knights 4, Gophers 3
+Tornados 1, Knights 1    
+
+Xavier 3, Knights 4
